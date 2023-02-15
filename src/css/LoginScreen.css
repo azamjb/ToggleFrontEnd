@@ -1,0 +1,94 @@
+
+
+.inputprompt {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    width: 250px;
+    
+}
+
+.padding {
+
+    padding-bottom: 20px;
+}
+
+.loginButton {
+
+    display: inline-block;
+    background-color:#7eca9eff;
+    padding: 8px;
+    color:#ffffff;
+    text-align: center;
+    border: 4px; 
+    border-radius: 4px; 
+    font-size: 15px; 
+  }
+
+  .loginButton2 {
+
+    padding-bottom: 30px;
+    padding-left: 190px;
+
+  }
+
+.forgotpasswordbutton {
+
+    background-color: #ffffff;
+    border: 0px;
+    font-weight: bold;
+    font-size: 12px; 
+    padding-right: 155px;
+    padding-top: 7px;
+    padding-bottom: 10px;
+}
+
+.registerbutton {
+
+    display: inline-block;
+    background-color:#7eca9eff;
+    padding: 8px;
+    color:#ffffff;
+    text-align: center;
+    border: 4px; 
+    border-radius: 4px; 
+    font-size: 15px;  
+    width: 250px;
+    
+}
+
+.register {
+
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.registerlabel {
+    padding-right: 105px;
+    font-size: 13px;
+}
+
+.googlebutton {
+
+    display: inline-block;
+    background-color:#7eca9eff;
+    padding: 8px;
+    color:#ffffff;
+    text-align: center;
+    border: 4px; 
+    border-radius: 4px; 
+    font-size: 15px;  
+    width: 250px;
+    line-height: 1;
+}
+
+.googleImage {
+
+    width: 18px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+h2{
+    font-size: 30px;
+}

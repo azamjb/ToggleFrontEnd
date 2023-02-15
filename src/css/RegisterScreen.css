@@ -1,0 +1,25 @@
+
+.inputprompt {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    width: 250px;
+}
+
+.padding {
+    
+    padding-bottom: 20px;
+}
+
+.registerbutton {
+
+    display: inline-block;
+    background-color:#7eca9eff;
+    padding: 8px;
+    color:#ffffff;
+    text-align: center;
+    border: 4px; 
+    border-radius: 4px; 
+    font-size: 15px;
+}
