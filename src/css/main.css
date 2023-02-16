@@ -4,3 +4,7 @@
 @import 'ResetPassword.css';
 @import 'ForgotPassword.css';
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
